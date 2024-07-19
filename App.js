@@ -183,6 +183,7 @@ const styles = StyleSheet.create({
     height: '25%', // Define a altura dos botões para deixar em 4 linhas
     justifyContent: 'center', // Centraliza o conteúdo verticalmente
     alignItems: 'center', // Centraliza o conteúdo horizontalmente
+    backgroundColor: '#487aa1'
   },
   buttonText: {
     fontSize: height < 600 ? 24 : height * 0.04, // Define o tamanho da fonte com base na altura da janela.
