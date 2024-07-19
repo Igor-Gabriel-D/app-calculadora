@@ -35,4 +35,6 @@ Este repositório consiste em um aplicativo de uma calculadora desenvolvida em r
 3. Execução
   Executar o comando com o npx no terminal para executar o aplicativo
   - npx expo start
-  - Escaneie o Qrcode gerado no terminal ou abra no navegador com a url http://localhost:8081
+  - Escaneie o Qrcode gerado no terminal com o aplicativo do expo go
+
+o projeto foi testado nos celulares: A11, A25 e no Galaxy 22
