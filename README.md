@@ -23,9 +23,9 @@ Este repositório consiste em um aplicativo de uma calculadora desenvolvida em r
 
 
 1. clonando o repositório
-  execute os comandos abaixo no terminal.
-  1. git clone https://github.com/Igor-Gabriel-D/app-calculadora.git
-  2. cd app-calculadora
+  - execute os comandos abaixo no terminal.
+  - git clone https://github.com/Igor-Gabriel-D/app-calculadora.git
+  - cd app-calculadora
 
 2. Instalando as dependências
   Use o comando abaixo para instalar todas as dependências necessárias para executar a aplicação.
