@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
   Dimensions
 } from 'react-native';
+// pega a dimenção da altura para deixar o projeto adptável no peso das fontes em diversos dispositivos
 const { height } = Dimensions.get('window');
 
 const App = () => {
